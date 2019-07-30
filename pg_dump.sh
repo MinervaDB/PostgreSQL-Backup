@@ -3,7 +3,7 @@
 #Substitute your postgresql root username in the below given line
 PGUSER=postgres
 #Substitute your postgresql root password in the below given line
-PGPASSWORD=stuffnthings
+PGPASSWORD=PassWoRD
 export PGUSER PGPASSWORD
 
 tdate=`date +%d-%b-%Y`
